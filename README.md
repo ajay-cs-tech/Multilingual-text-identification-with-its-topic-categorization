@@ -1,10 +1,10 @@
 Objectives:
 
-    1. Develop and integrate a BERT-based language detection model capable of accurately identifying multiple languages, including low-resource languages, within a single text input.
-    2.  Utilize TF-IDF vectorization in conjunction with a fine-tuned BERT classifier to enhance the precision and recall of topic categorization in multilingual texts.
-    3.  Design the system to effectively manage and categorize text that contains multiple languages within the same document, ensuring seamless language transitions and accurate topic detection.
-    4.  Implement advanced text preprocessing steps to handle encoding issues, remove noise, and standardize input text, improving the overall quality and consistency of the data fed into the models.
-    5.  Apply efficient training techniques such as gradient accumulation, mixed precision training, and early stopping to reduce computational resource requirements without sacrificing model performance.
+1. Develop and integrate a BERT-based language detection model capable of accurately identifying multiple languages, including low-resource languages, within a single text input.
+2.  Utilize TF-IDF vectorization in conjunction with a fine-tuned BERT classifier to enhance the precision and recall of topic categorization in multilingual texts.
+3.  Design the system to effectively manage and categorize text that contains multiple languages within the same document, ensuring seamless language transitions and accurate topic detection.
+4.  Implement advanced text preprocessing steps to handle encoding issues, remove noise, and standardize input text, improving the overall quality and consistency of the data fed into the models.
+5.  Apply efficient training techniques such as gradient accumulation, mixed precision training, and early stopping to reduce computational resource requirements without sacrificing model performance.
 
 Pseudocode for the modules implemented
 
