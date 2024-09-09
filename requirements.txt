@@ -1,0 +1,12 @@
+warnings  
+pandas  
+re  
+torch  
+numpy  
+sklearn  
+transformers  
+deep_translator  
+langdetect  
+ftfy  
+os  
+nltk  
